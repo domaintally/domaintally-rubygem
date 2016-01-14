@@ -1,0 +1,6 @@
+require 'httparty'
+require 'erb'
+require 'domaintally/version'
+require 'domaintally/domain'
+require 'domaintally/ranking'
+require 'domaintally/whois'
